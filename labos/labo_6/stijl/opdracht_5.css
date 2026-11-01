@@ -1,6 +1,6 @@
 a::before {
     content: "";
-    background: url("img/icoontje.png") no-repeat;
+    background: url("../img/icoontje.png") no-repeat;
     background-size: contain;
     width: 20px;
     height: 20px;
